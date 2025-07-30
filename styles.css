@@ -192,3 +192,17 @@ body {
 .project-links a {
     margin: 5px;
 }
+.btn-resume {
+    font-weight: 500;
+    font-size: 1rem;
+    padding: 0.6rem 1.5rem;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0, 123, 255, 0.2);
+}
+
+.btn-resume:hover {
+    background-color: #0a58ca;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 123, 255, 0.3);
+}
