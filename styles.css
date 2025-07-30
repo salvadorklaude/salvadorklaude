@@ -2,7 +2,7 @@ body {
     background-color: #121212;
             color: #ffffff;
             transition: background 0.3s, color 0.3s;
-        }
+}
         .light-mode {
             background-color: #ffffff;
             color: #121212;
