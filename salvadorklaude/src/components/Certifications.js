@@ -56,7 +56,7 @@ export default function Certifications() {
 
           <div className="bg-gray-800 p-4 rounded-2xl card text-left">
             <h4 className="font-bold">CCNA: Enterprise Networking, Security, and Automation</h4>
-            <p>Issued by Coursera</p>
+            <p>Issued by Cisco</p>
             <a
               href="https://www.credly.com/badges/47a06755-bce6-4383-817d-ad76270a8ce3/public_url"
               className="inline-block mt-2 text-yellow-400 hover:underline"
