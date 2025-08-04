@@ -1,8 +1,8 @@
 {
   "name": "salvadorklaude",
-  "homepage": "https://salvadorklaude.github.io/salvadorklaude",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://salvadorklaude.github.io/salvadorklaude",
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
     "@testing-library/dom": "^10.4.1",
