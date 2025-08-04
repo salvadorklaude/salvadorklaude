@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/salvadorklaude/static/css/main.69944095.css",
-    "main.js": "/salvadorklaude/static/js/main.977d53e9.js",
+    "main.js": "/salvadorklaude/static/js/main.800ca52b.js",
     "static/js/453.301ba3b7.chunk.js": "/salvadorklaude/static/js/453.301ba3b7.chunk.js",
     "static/media/klod.jpg": "/salvadorklaude/static/media/klod.e4ace4e9235d69d7c214.jpg",
     "static/media/Feathers.jpg": "/salvadorklaude/static/media/Feathers.2ee2c05f21100fc1ce4a.jpg",
@@ -17,11 +17,11 @@
     "static/media/Cloud.png": "/salvadorklaude/static/media/Cloud.2d37e174bf9a700f57cd.png",
     "index.html": "/salvadorklaude/index.html",
     "main.69944095.css.map": "/salvadorklaude/static/css/main.69944095.css.map",
-    "main.977d53e9.js.map": "/salvadorklaude/static/js/main.977d53e9.js.map",
+    "main.800ca52b.js.map": "/salvadorklaude/static/js/main.800ca52b.js.map",
     "453.301ba3b7.chunk.js.map": "/salvadorklaude/static/js/453.301ba3b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69944095.css",
-    "static/js/main.977d53e9.js"
+    "static/js/main.800ca52b.js"
   ]
 }
