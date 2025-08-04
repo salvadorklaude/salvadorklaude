@@ -22,7 +22,8 @@ export default function About() {
         viewport={{ once: true }}
       />
       <p className="max-w-xl mx-auto">
-      I’m a 22-year-old IT enthusiast currently studying at Far Eastern University – Tech. Passionate about full-stack development and infrastructure, I’ve worked on projects ranging from donation platforms to school management systems. With a strong background in communication and teamwork, I aim to build solutions that make a difference.      </p>
-    </motion.section>
+      I’m a 23-year-old IT enthusiast currently pursuing my degree at Far Eastern University Institute of technology. With a strong passion for full-stack development and IT infrastructure, I’ve contributed to projects ranging from donation platforms to school management systems. My foundation in communication and teamwork enables me to collaborate effectively and deliver impactful solutions. I’m driven by a desire to build technology that solves real-world problems and makes a meaningful difference.
+      </p>
+          </motion.section>
   );
 }
