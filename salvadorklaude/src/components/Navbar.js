@@ -13,7 +13,7 @@ export default function Navbar({ lightMode, toggleTheme }) {
         <li>
           <button
             onClick={toggleTheme}
-            className={`p-2 rounded-full border ${lightMode ? 'border-black' : 'border-white'}`}>
+            className={`theme-toggle p-2 rounded-full border ${lightMode ? 'border-black' : 'border-white'}`}>
             {lightMode ? <BsLightbulbFill className="text-black" /> : <BsLightbulb />}
           </button>
         </li>
